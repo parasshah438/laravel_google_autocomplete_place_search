@@ -7,8 +7,8 @@
       <label for="email">Location:</label>
       <input type="search" class="form-control" id="searchInput" placeholder="Enter a location">
       <!-- Google map -->
-      <br>
-        <div class="map" id="map" style="width: 100%; height: 300px;"></div>
+        <br>
+        <div class="map" id="map" style="width: 100%; height: 400px;"></div>
         <br>
         <!-- Display geolocation data -->
         <ul class="geo-data">
